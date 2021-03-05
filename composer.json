@@ -1,0 +1,18 @@
+{
+    "name": "potes/curso-php",
+    "description": "Curso php",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "4.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "authors": [
+        {
+            "name": "Potesoffice",
+            "email": "javierpotests@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
