@@ -29,4 +29,22 @@
   */
 
   $lenguajes = ['javascript', 'php', 'laravel'];
-  echo implode(',', $lenguajes);
+
+  echo implode(', ', $lenguajes);
+
+/**
+ * Eliminar espacios en php
+ * trim($string) -- Esta funcion quita los espacios a
+ * la izquierda y a la derecha de un string
+ * ltrim($string) y rtrim($string) quita los
+ * espacios a la izquierda de un string y a
+ * la derecha respectivamente (left & right)
+ */
+
+ $cursos = "        Curso de php        ";
+
+ $cursos = trim($cursos);
+
+ echo "<pre>";
+
+ echo "Quiero aprender $cursos, y otro texto";
