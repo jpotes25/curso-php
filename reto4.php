@@ -1,17 +1,17 @@
 <?php
-
-function repetirPalabras($string, $repetir)
+function repetirString($string, $repetir)
 {
-    $cont = 0;
-    if ($cont <= $repetir) {
+    
+    if($repetir != 0)
+    {   
         echo $string;
-        $cont++;
+        echo "\n";
         $repetir--;
-        repetirPalabras($string, $repetir);
+        repetirString($string, $repetir);
     }
 }
 
-$string = 'Aprendiendo php con Platzi';
+$frase = "reto 4 con php y platzi";
 $repetir = 10;
 
-repetirPalabras($string, $repetir);
+repetirString($frase, $repetir);

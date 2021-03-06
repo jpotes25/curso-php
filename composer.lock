@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "625fb2b67bee21b733535bdf42de57b4",
+    "content-hash": "9a3b966e8a61adc1df2ae4d7e20c0c52",
     "packages": [
         {
             "name": "nesbot/carbon",
@@ -1064,12 +1064,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "c7d1d424c1c4f9efdeb75d005e65e685047a8912"
+                "reference": "8d639cb23b034603d0378336471706a0930a9987"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c7d1d424c1c4f9efdeb75d005e65e685047a8912",
-                "reference": "c7d1d424c1c4f9efdeb75d005e65e685047a8912",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/8d639cb23b034603d0378336471706a0930a9987",
+                "reference": "8d639cb23b034603d0378336471706a0930a9987",
                 "shasum": ""
             },
             "require": {
@@ -1158,7 +1158,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-02-23T15:50:46+00:00"
+            "time": "2021-03-05T08:52:51+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -1223,12 +1223,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/code-unit.git",
-                "reference": "2611706fe75d2204fb467f852189920a63706a26"
+                "reference": "20fdb7bbd54f464cba12430110784aa02761916d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit/zipball/2611706fe75d2204fb467f852189920a63706a26",
-                "reference": "2611706fe75d2204fb467f852189920a63706a26",
+                "url": "https://api.github.com/repos/sebastianbergmann/code-unit/zipball/20fdb7bbd54f464cba12430110784aa02761916d",
+                "reference": "20fdb7bbd54f464cba12430110784aa02761916d",
                 "shasum": ""
             },
             "require": {
@@ -1272,7 +1272,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-02-23T15:47:31+00:00"
+            "time": "2021-03-05T07:41:23+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
