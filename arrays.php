@@ -8,7 +8,7 @@ echo "<pre>";
 var_dump($cursos);
 
 /**
- * Arrays complejos
+ * Arrays complejos, sirven como diccionarios
  * 
  */
 
