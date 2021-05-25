@@ -1,6 +1,6 @@
 # Repositorio curso php
 
-Este repositorio fue creado para los cursos iniciales de php en Platzi. Actualmente lo uso para resolver los retos de las clases de cursos relacionados con php.
+Repositorio creado para los cursos iniciales de php en Platzi. Actualmente lo uso para resolver los retos de las clases de cursos relacionados con php.
 
 ### Ultimos commits
 - 14/03/2021
