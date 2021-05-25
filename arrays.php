@@ -1,6 +1,6 @@
 <?php
 
-//arrays simples, son los que no se les ha definido keys o clave. Solo valores
+//arrays simples, no se les ha definido keys o clave. Solo valores
 
 $cursos = ['javascript', 'Laravel', 'Vuejs'];
 
@@ -24,7 +24,6 @@ $cursosC = [
  * y ademas de eso podemos asignarle  una funcion, para que en cada recorrido, cumpla algo
  * 
  */
-
 foreach ($cursosC as $key => $value) {
     echo "$key: $value <br>";
 }
